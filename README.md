@@ -685,35 +685,7 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 ```
-## style.css
-```
-body {
-    font-family: Arial;
-    margin: 0;
-}
 
-header {
-    background: #222;
-    color: white;
-    padding: 15px;
-    text-align: center;
-}
-
-nav a {
-    color: white;
-    margin: 10px;
-    text-decoration: none;
-}
-
-nav a:hover {
-    color: #00adb5;
-}
-
-section {
-    padding: 30px;
-    text-align: center;
-}
-```
 ## OUTPUT
 <img width="1898" height="1044" alt="image" src="https://github.com/user-attachments/assets/024dd926-ebd0-459d-a0e6-f63c84de78bc" />
 
